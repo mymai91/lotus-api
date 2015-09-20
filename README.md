@@ -101,3 +101,9 @@ collection :users do
   attribute :updated_at, DateTime
 end
 ```
+
+## Generate API
+
+```ruby
+lotus g app api
+```
